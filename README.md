@@ -1,8 +1,8 @@
 # Educational-Initiatives_TCE26 
-**Ananth N**  
+**Athi Jathin R**  
 
-- **Email:** anxnth@gmail.com  
-- **GitHub:** [https://github.com/anxnth-byte](https://github.com/anxnth-byte)  
+- **Email:** Athi Jathin M R@gmail.com  
+- **GitHub:** [https://github.com/athijathin303](https://github.com/athijathin303)  
 - **College/Institute:** Thiagarajar College of Engineering  
 
 ---
